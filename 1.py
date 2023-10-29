@@ -1,3 +1,4 @@
+from transformers import ViTImageProcessor, ViTForImageClassification
 from PIL import Image
 import requests
 

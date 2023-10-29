@@ -28,5 +28,3 @@ categories = predictions[:, 5]
 # show detection bounding boxes on image
 results.show()
 
-# save results into "results/" folder
-results.save(save_dir='results/')
